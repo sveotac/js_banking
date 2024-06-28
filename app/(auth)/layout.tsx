@@ -13,8 +13,9 @@ export default function RootLayout({
               <Image
                 src="/icons/auth-image.svg"
                 alt="auth image"
-                width={500}
-                height={500}
+                width={650}
+                height={650}
+                className="flex j"
               />
             </div>
           </div>
